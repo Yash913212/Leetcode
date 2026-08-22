@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/transformed-array">Transformed Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> that represents a circular array. Your task is to create a new array <code>result</code> of the <strong>same</strong> size, following these rules:</p>
+hello<h2><a href="https://leetcode.com/problems/transformed-array">Transformed Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> that represents a circular array. Your task is to create a new array <code>result</code> of the <strong>same</strong> size, following these rules:</p>
 For each index <code>i</code> (where <code>0 &lt;= i &lt; nums.length</code>), perform the following <strong>independent</strong> actions:
 
 <ul>
